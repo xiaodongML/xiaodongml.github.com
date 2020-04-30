@@ -108,33 +108,67 @@
 			<td bgcolor="#FFFFFF"></td>
 		</tr>
 		<tr height="40">
-			<td class="titlebig" align="left">Brief CV<br></td>
+			<td class="titlebig" align="left">Research Projects<br></td>
 		</tr>
-		<tr height="100">
-			<td class="text">
-			<p><strong>Dr. Xiaodong Yue</strong> is an associate professor in the School of Computer Engineering & Science at Shanghai University. Before joining Shanghai University, he was a postdoctoral researcher in the Department of Computer Science & Technology at Tongji University. He also received the Ph.D. degree from Tongji University in 2010. In 2008, he was a research assistant in the Department of Computer Science at Hong Kong Baptist University. In 2017, he was a research associate at Hong Kong Polytechnic University. From 2011 to 2012, he was a research fellow in the Faculty of Engineering & Info Tech. at University of Technology, Sydney.
-            </p>
-			<p>
-            The major research interests of Dr. Yue include the theories and applications of Machine Learning, in which he has the special focus on Soft Computing, Image Analysis and Data Mining. He has published more than 60 academic papers in these areas, including prestigious journals and international conferences. Dr. Yue has supervised 4 national research foundations of China as a principal investigator. He also joined in 6 relevant national research projects and 3 engineering projects as a major participant in recent years.
-            </p>
-            <p>
-            In the past five years, Dr. Yue served as a PC member for a number of international conferences such as AAAI, PAKDD, ICONIP and also served as a publication chair for ICME2012, DSAA2014 and RSKT2014. He is an area editor of International Journal of Approximate Reasoning (IJAR) and an associate editor of the Elsevier journal Array. He also served as a reviewer for several international journals such as 'Pattern Recognition', 'Information Sciences' and 'Knowledge-based Systems'.
-            </p>
-			</td>
-		</tr>
-		<tr height="20">
+		
+		<tr height="10">
 			<td bgcolor="#FFFFFF"></td>
 		</tr>
         <tr height="40">
-			<td class="titlebig" align="left">News</td>
+			<td class="titlesmall" align="left">As a principal investigator<br></td>
 		</tr>
 		<tr align="left" height="100">
 			<td bgcolor="#FFFFFF">
-				<li class="article">The <a href="https://www.lgi2a.univ-artois.fr/events/belief2020/" target="lbc" class="textlink">BELIEF-CCGT conference</a> is postponed to May 2021.
-                </li>
+				<li class="article"> <strong>National Natural Science Youth Foundation of China</strong> “Research on Domain Driven Evolving Behavior Pattern Mining” (No. 61103067), Time: 2012.01-2014.12.</li>	
 				<br>
-				
-			</td></tr>
+				<li class="article"><strong>China Postdoctoral Science Foundation</strong> “Behavior Pattern Mining Based on Domain Knowledge”, (No. 2011M500815), Time: 2011.07-2013.06.</li>	
+				<br>
+				<li class="article"><strong>Project Supported by The Key Laboratory of  Ministry of Education</strong>, Embedded System and Service Computing, Time: 2013.11-2015.11.</li>	
+				<br>
+				<li class="article"><strong>Innovation Foundation of Shanghai University</strong>, Time: 2013.09-2015.09.</li>
+				<br>
+				<li class="article"><strong>Young Teachers Program of Universities in Shanghai</strong>, Time: 2013.09-2015.09.</li>	
+				<br>				
+			</td>
+		</tr>
+		<tr height="40">
+			<td class="titlesmall" align="left"> As a project participant <br></td>
+		</tr>
+		<tr align="left" height="100">
+			<td bgcolor="#FFFFFF">
+			    <li class="article"><strong>National Natural Science Youth Foundation of China</strong> "Face Recognition in Real-world Scenarios Based on Sparse Visual Feature Learning", (No. 61203247), Time: 2013.01-2015.12.</li>	
+				<br>	
+				<li class="article"><strong>National Natural Science Foundation of China</strong> "Research on Uncertainty Theory in Granular Computing", (No. 61273304), Time: 2013.01-2016.12.</li>	
+				<br>
+				<li class="article"><strong>National Natural Science Foundation of China</strong>  “Principal Curve and Its Applications in Character Recognition”, (No. 60775036), Time: 2008.01-2011.12.</li>	
+				<br>
+				<li class="article"><strong>National 863 Research Project of China</strong> “Research Projects Evaluation System for Ministry of Education”, (No. 2004AA115460), Time: 2005.01-2006.09.</li>	
+				<br>
+				<li class="article"><strong>Australian ARC approved Grant DP</strong> “Pattern Discovery of Discriminating Behavior Associated with Hidden Communities”, (No. 1096218), Time: 2011.01-2012.10.</li>	
+				<br>				
+			</td>
+		</tr>
+		<tr height="40">
+			<td class="titlebig" align="left">Engineering Projects<br></td>
+		</tr>
+		
+		<tr height="10">
+			<td bgcolor="#FFFFFF"></td>
+		</tr>
+        <tr height="40">
+			<td class="titlesmall" align="left">As a project participant<br></td>
+		</tr>
+		<tr align="left" height="100">
+			<td bgcolor="#FFFFFF">
+				<li class="article"> <strong>Project of Westpac Bank</strong>, Australia, “Cheque Image Analysis System”, Time: 2011.02 - 2012.02.</li>	
+				<br>
+				<li class="article"> <strong>Project of FMZ Company</strong>, Shanghai, “Automatic Remote Education System”, Time: 2007.03 - 2007.12.</li>	
+				<br>
+				<li class="article"> <strong>Scientific &amp; Technological Project in Shanxi Province</strong>, “Intelligent Assistant Shooting System”, Time: 2006.01 - 2006.07.</li>	
+				<br>	
+			</td>
+		</tr>
+            
 	</tbody>
 	</table>
 	</td>
@@ -152,7 +186,7 @@
 	</td></tr>
 	<tr height="50">
 		<td class="foot" align="center">
-			Last updated on April 30th, 2020. 
+			Last updated on Feb. 10th, 2014. 
 	    </td>
 	</tr>
     </tbody>
