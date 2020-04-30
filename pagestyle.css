@@ -1,0 +1,143 @@
+body {
+	scrollbar-face-color: #CCCCCC;
+	scrollbar-shadow-color: #999999;
+	scrollbar-highlight-color: #999999;
+	scrollbar-3dlight-color: #EAEAEA;
+	scrollbar-darkshadow-color: #EAEAEA;
+	scrollbar-track-color: #EAEAEA;
+	scrollbar-arrow-color: #999999;
+}
+
+.menu {
+	color:#000099;
+	font-family:"Times New Roman", "宋体";
+	font-size: 14px;
+	text-decoration: none;
+	font-weight: bold;
+	line-height: 20px;
+}
+
+.menu:hover {
+	color:#FF6600;
+	font-family: "Times New Roman", "宋体";
+	font-size: 14px;
+	text-decoration: none;
+	font-weight: bold;
+	line-height: 20px;
+}
+
+.foot {
+	color: #909090;
+	font-family: "Times New Roman","宋体";
+	font-size: 12px;
+}
+
+.footlink {
+	color: #909090;
+	font-family: "Times New Roman", "宋体";
+	font-size: 12px;
+	text-decoration: none;
+}
+
+.footlink:hover {
+	color: #8142bf;
+	font-family: "Times New Roman", "宋体";
+	font-size: 12px;
+	text-decoration: none;
+}
+
+.notation {
+	color:#000000;
+	font-family:"Times New Roman",  "宋体";
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.titlebig {
+	color: #000099;
+	font-family: "Arial", "宋体";
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.titlesmall {
+	color:#006600;
+	font-family: "Arial", "宋体";
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.titlebiglink {
+	color: #000099;
+	font-family: "Arial", "宋体";
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.titlebiglink:hover {
+	color: #8142bf;
+	font-family: "Arial", "宋体";
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.text{
+	color:#000000;
+	font-family: "Times New Roman", "宋体";
+	font-size: 14px;
+	text-decoration: none;
+	text-align:justify;
+}
+
+.textlink{
+	color:#000099;
+	font-family: "Times New Roman", "宋体";
+	font-size: 14px;
+	text-decoration: none;
+}
+
+.textlink:hover{
+	color:#8142bf;
+	font-family: "Times New Roman", "宋体";
+	font-size: 14px;
+	text-decoration: none;
+}
+
+.article{
+	color:#000000;
+	font-family: "Times New Roman", "宋体";
+	font-size: 14px;
+	text-decoration: none;
+	text-align:justify;
+}
+
+.articletitle{
+	color:#000000;
+	font-family: "Times New Roman", "宋体";
+	font-size: 14px;
+	text-decoration: none;
+}
+
+.articlelink {
+	color: #0077EE;
+	font-family: "Times New Roman",  "宋体";
+	font-size: 14px;
+	text-decoration: none;
+}
+
+.articlelink:hover {
+	color: #8142bf;
+	font-family: "Times New Roman",  "宋体";
+	font-size: 14px;
+	text-decoration: none;
+}
+
+
+
+
+
