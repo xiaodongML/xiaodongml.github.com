@@ -105,70 +105,190 @@
 	<table align="center" border="0" cellpadding="0" cellspacing="0" width="680">
 	<tbody>
 	    <tr height="10">
-			<td bgcolor="#FFFFFF"></td>
+			<td bgcolor="#FFFFFF"></td><td></td><td></td><td></td>
 		</tr>
 		<tr height="40">
-			<td class="titlebig" align="left">Research Projects<br></td>
-		</tr>
-		
-		<tr height="10">
-			<td bgcolor="#FFFFFF"></td>
-		</tr>
+			<td class="titlebig" align="left">Graduate Students<br></td><td></td><td></td><td></td>
+		</tr>	
+	</tbody>
+	</table>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" width="680">
+	    <tbody>
         <tr height="40">
-			<td class="titlesmall" align="left">As a principal investigator<br></td>
+			<td class="titlesmall" align="left">Master students<br></td><td></td><td></td><td></td>
 		</tr>
-		<tr align="left" height="100">
+		<tr align="left" height="40">
 			<td bgcolor="#FFFFFF">
-				<li class="article"> <strong>National Natural Science Youth Foundation of China</strong> “Research on Domain Driven Evolving Behavior Pattern Mining” (No. 61103067), Time: 2012.01-2014.12.</li>	
-				<br>
-				<li class="article"><strong>China Postdoctoral Science Foundation</strong> “Behavior Pattern Mining Based on Domain Knowledge”, (No. 2011M500815), Time: 2011.07-2013.06.</li>	
-				<br>
-				<li class="article"><strong>Project Supported by The Key Laboratory of  Ministry of Education</strong>, Embedded System and Service Computing, Time: 2013.11-2015.11.</li>	
-				<br>
-				<li class="article"><strong>Innovation Foundation of Shanghai University</strong>, Time: 2013.09-2015.09.</li>
-				<br>
-				<li class="article"><strong>Young Teachers Program of Universities in Shanghai</strong>, Time: 2013.09-2015.09.</li>	
+			<strong class="articlelink">Name</strong>
+				<br>				
+			</td>
+			<td bgcolor="#FFFFFF">
+			<strong class="articlelink">Reseach topic &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</strong>
+			<br>				
+			</td>
+			<td bgcolor="#FFFFFF">
+			<strong class="articlelink">Time &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</strong>
+				<br>				
+			</td>
+			<td bgcolor="#FFFFFF">
+			<strong class="articlelink">Work place after graduation</strong>
 				<br>				
 			</td>
 		</tr>
-		<tr height="40">
-			<td class="titlesmall" align="left"> As a project participant <br></td>
+		<tr align="left" height="40" class="article">
+			<td bgcolor="#FFFFFF">Wei Huang<br>				
+			</td>
+			<td bgcolor="#FFFFFF">Neighborhood-based learning<br>				
+			</td>
+			<td bgcolor="#FFFFFF">2014-2017<br>				
+			</td>
+			<td bgcolor="#FFFFFF">China Internet Plus Holding Ltd.<br>				
+			</td>
 		</tr>
-		<tr align="left" height="100">
-			<td bgcolor="#FFFFFF">
-			    <li class="article"><strong>National Natural Science Youth Foundation of China</strong> "Face Recognition in Real-world Scenarios Based on Sparse Visual Feature Learning", (No. 61203247), Time: 2013.01-2015.12.</li>	
-				<br>	
-				<li class="article"><strong>National Natural Science Foundation of China</strong> "Research on Uncertainty Theory in Granular Computing", (No. 61273304), Time: 2013.01-2016.12.</li>	
-				<br>
-				<li class="article"><strong>National Natural Science Foundation of China</strong>  “Principal Curve and Its Applications in Character Recognition”, (No. 60775036), Time: 2008.01-2011.12.</li>	
-				<br>
-				<li class="article"><strong>National 863 Research Project of China</strong> “Research Projects Evaluation System for Ministry of Education”, (No. 2004AA115460), Time: 2005.01-2006.09.</li>	
-				<br>
-				<li class="article"><strong>Australian ARC approved Grant DP</strong> “Pattern Discovery of Discriminating Behavior Associated with Hidden Communities”, (No. 1096218), Time: 2011.01-2012.10.</li>	
-				<br>				
+        <tr align="left" height="40" class="article">
+			<td bgcolor="#FFFFFF">Wei Xu<br>				
+			</td>
+			<td bgcolor="#FFFFFF">Image analysis<br>				
+			</td>
+			<td bgcolor="#FFFFFF">2015-2018<br>				
+			</td>
+			<td bgcolor="#FFFFFF">China Unionpay Merchant Service (Chinaums).<br>				
+			</td>
+		</tr>
+		<tr align="left" height="40" class="article">
+			<td bgcolor="#FFFFFF">Qiang Chen<br>				
+			</td>
+			<td bgcolor="#FFFFFF">Neighborhood-based learning<br>				
+			</td>
+			<td bgcolor="#FFFFFF">2016-2018<br>				
+			</td>
+			<td bgcolor="#FFFFFF">ShuKun Network Technology Ltd.<br>				
+			</td>
+		</tr>
+        <tr align="left" height="40" class="article">
+			<td bgcolor="#FFFFFF">Meiqian Wang<br>				
+			</td>
+			<td bgcolor="#FFFFFF">Feature selection<br>				
+			</td>
+			<td bgcolor="#FFFFFF">2016-2019<br>				
+			</td>
+			<td bgcolor="#FFFFFF">CASCO Signal Ltd.<br>				
+			</td>
+		</tr>
+		<tr align="left" height="40" class="article">
+			<td bgcolor="#FFFFFF">Li Hou<br>				
+			</td>
+			<td bgcolor="#FFFFFF">Image analysis<br>				
+			</td>
+			<td bgcolor="#FFFFFF">2017-2019<br>				
+			</td>
+			<td bgcolor="#FFFFFF">China UnionPay.<br>				
+			</td>
+		</tr>
+		<tr align="left" height="40" class="article">
+			<td bgcolor="#FFFFFF">Xiao Xiao<br>				
+			</td>
+			<td bgcolor="#FFFFFF">Neighborhood-based learning<br>				
+			</td>
+			<td bgcolor="#FFFFFF">2017-2020<br>				
+			</td>
+			<td bgcolor="#FFFFFF">Huawei Shanghai Research Institute.<br>				
+			</td>
+		</tr>
+        <tr align="left" height="40" class="article">
+			<td bgcolor="#FFFFFF">Wei Liu<br>				
+			</td>
+			<td bgcolor="#FFFFFF">Clustering ensemble<br>				
+			</td>
+			<td bgcolor="#FFFFFF">2017-2020<br>				
+			</td>
+			<td bgcolor="#FFFFFF"><br>				
+			</td>
+		</tr>
+		 <tr align="left" height="40" class="article">
+			<td bgcolor="#FFFFFF">Cheng Zhang<br>				
+			</td>
+			<td bgcolor="#FFFFFF">Domain-driven deep learning<br>				
+			</td>
+			<td bgcolor="#FFFFFF">2018-2021<br>				
+			</td>
+			<td bgcolor="#FFFFFF"><br>				
+			</td>
+		</tr>
+		 <tr align="left" height="40" class="article">
+			<td bgcolor="#FFFFFF">Bin Yuan<br>				
+			</td>
+			<td bgcolor="#FFFFFF">Uncertain data classification<br>				
+			</td>
+			<td bgcolor="#FFFFFF">2018-2021<br>				
+			</td>
+			<td bgcolor="#FFFFFF"><br>				
+			</td>
+		</tr>
+		 <tr align="left" height="40" class="article">
+			<td bgcolor="#FFFFFF">Xuxia Zhang<br>				
+			</td>
+			<td bgcolor="#FFFFFF">Feature selection<br>				
+			</td>
+			<td bgcolor="#FFFFFF">2018-2021<br>				
+			</td>
+			<td bgcolor="#FFFFFF"><br>				
+			</td>
+		</tr>
+		<tr align="left" height="40" class="article">
+			<td bgcolor="#FFFFFF">Siwen Liu<br>				
+			</td>
+			<td bgcolor="#FFFFFF">Uncertain data classification<br>				
+			</td>
+			<td bgcolor="#FFFFFF">2019-2022<br>				
+			</td>
+			<td bgcolor="#FFFFFF"><br>				
+			</td>
+		</tr>
+		<tr align="left" height="40" class="article">
+			<td bgcolor="#FFFFFF">Xiao Huang<br>				
+			</td>
+			<td bgcolor="#FFFFFF">Domain-driven deep learning<br>				
+			</td>
+			<td bgcolor="#FFFFFF">2019-2022<br>				
+			</td>
+			<td bgcolor="#FFFFFF"><br>				
+			</td>
+		</tr>
+		<tr align="left" height="40" class="article">
+			<td bgcolor="#FFFFFF">Haijie Fu<br>				
+			</td>
+			<td bgcolor="#FFFFFF">Clusering ensemble<br>				
+			</td>
+			<td bgcolor="#FFFFFF">2019-2022<br>				
+			</td>
+			<td bgcolor="#FFFFFF"><br>				
 			</td>
 		</tr>
 		<tr height="40">
-			<td class="titlebig" align="left">Engineering Projects<br></td>
+			<td class="titlesmall" align="left">PhD students <br></td>
+		</tr>
+		<tr align="left" height="40" class="article">
+			<td bgcolor="#FFFFFF">Ying Lv <br> (co-supervised)<br>				
+			</td>
+			<td bgcolor="#FFFFFF">Domain-driven transfer learning<br>				
+			</td>
+			<td bgcolor="#FFFFFF">2017-<br>				
+			</td>
+			<td bgcolor="#FFFFFF"><br>				
+			</td>
+		</tr>
+		<tr align="left" height="40" class="article">
+			<td bgcolor="#FFFFFF">Zhikang Xu <br> (co-supervised)<br>				
+			</td>
+			<td bgcolor="#FFFFFF">				
+			</td>
+			<td bgcolor="#FFFFFF">2018-<br>				
+			</td>
+			<td bgcolor="#FFFFFF"><br>				
+			</td>
 		</tr>
 		
-		<tr height="10">
-			<td bgcolor="#FFFFFF"></td>
-		</tr>
-        <tr height="40">
-			<td class="titlesmall" align="left">As a project participant<br></td>
-		</tr>
-		<tr align="left" height="100">
-			<td bgcolor="#FFFFFF">
-				<li class="article"> <strong>Project of Westpac Bank</strong>, Australia, “Cheque Image Analysis System”, Time: 2011.02 - 2012.02.</li>	
-				<br>
-				<li class="article"> <strong>Project of FMZ Company</strong>, Shanghai, “Automatic Remote Education System”, Time: 2007.03 - 2007.12.</li>	
-				<br>
-				<li class="article"> <strong>Scientific &amp; Technological Project in Shanxi Province</strong>, “Intelligent Assistant Shooting System”, Time: 2006.01 - 2006.07.</li>	
-				<br>	
-			</td>
-		</tr>
-            
 	</tbody>
 	</table>
 	</td>
@@ -186,7 +306,7 @@
 	</td></tr>
 	<tr height="50">
 		<td class="foot" align="center">
-			Last updated on Feb. 10th, 2014. 
+			Last updated on April 30th, 2020. 
 	    </td>
 	</tr>
     </tbody>
