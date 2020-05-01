@@ -121,7 +121,7 @@
         <tr height="40">
 			<td class="titlesmall" align="left">Organization Services<br></td>
 		</tr>
-		<tr align="left" height="100">
+		<tr align="left" height="40">
 			<td bgcolor="#FFFFFF">
 				<li class="article">Member of IEEE Computational Intelligence Society</li>	
 				<li class="article">Member of International Rough Set Society</li>	
@@ -133,7 +133,7 @@
 		 <tr height="40">
 			<td class="titlesmall" align="left">Journal Services<br></td>
 		</tr>
-		<tr align="left" height="100">
+		<tr align="left" height="40">
 			<td bgcolor="#FFFFFF">
 			    <li class="article">Area editor of International Journal of Approximate Reasoning (Elsevier). </li>
 				<li class="article">Associate editor of Array (Elsevier). </li>
@@ -160,7 +160,7 @@
 			</td>
 		</tr>
 		<tr height="30">
-			<td class="titlebig" align="left">Honors/Certifications<br></td>
+			<td class="titlebig" align="left">Honors and Certifications<br></td>
 		</tr>
 		
 		<tr height="10">
@@ -168,10 +168,28 @@
 		</tr>
 		<tr align="left" height="100">
 			<td bgcolor="#FFFFFF">
-				<li class="article">Excellent Post-doctoral Award of Tongji Univ., 2013</li>	
-				<li class="article">Best Paper Award of Chinese Joint Conferences on Rough sets &amp; Soft computing, Web Intelligence and Granular Computing, 2007</li>	
-				<li class="article">Outstanding Student Cadres Award of Shanxi Province, 2002</li>
-				<li class="article">Certification of Software Designer, China Ministry of Information Industry, 2004</li>	
+			    <li class="article">Runner-up in the challenge on segmentation of bladder MRI images in ISICDM 2019.</li>				
+			    <li class="article">Best Student Paper Award of AIFT 2018.</li>
+				<li class="article">Cai Guanshen Award for Outstanding Young Teacher, Shanghai University, 2015.</li>
+				<li class="article">Excellent Post-doctoral Award of Tongji University, 2013.</li>	
+				<li class="article">Best Paper Award of Joint Conferences on Rough sets &amp; Soft computing, Web Intelligence and Granular Computing, 2007.</li>	
+				<li class="article">Certification of Software Designer, China Ministry of Information Industry, 2004.</li>	
+				<br>	
+			</td>
+		</tr>
+		<tr height="30">
+			<td class="titlebig" align="left">Patterns<br></td>
+		</tr>
+		
+		<tr height="10">
+			<td bgcolor="#FFFFFF"></td>
+		</tr>
+		<tr align="left" height="100">
+			<td bgcolor="#FFFFFF">
+			    <li class="article"></li>
+				<li class="article">Granted Invention Patent 'A method of 3D visualization and attribute measurement of liver functional region' (No. CN201610815614.4).</li>				<li class="article">Granted Invention Patent 'Traffic Congestion Detection Method with Density-based Clustering' (No. ZL201510662173.4).</li>
+				<li class="article">Granted Invention Patent 'Liver segmentation method based on hierarchical vascular tree' (No. CN201310165363.6).</li>
+				<li class="article">Granted Software Copyright 'Domain knowledge based Graph cut model  and its application workflow' (No. 2013SR058548).</li>
 				<br>	
 			</td>
 		</tr>   
