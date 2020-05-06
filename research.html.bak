@@ -203,7 +203,7 @@
 		</tr>
 		 <tr>
 			<td bgcolor="#FFFFFF" align="center" width="40%">
-			<img src="./images/img research works/fsar.png" width="90%">	</td>
+			<img src="./images/img research works/fsar.png" width="100%">	</td>
 		  </tr>
 		   <tr height="10">
 			<td bgcolor="#FFFFFF"></td>
@@ -224,7 +224,7 @@
 			<td bgcolor="#FFFFFF"></td>
 		</tr>
 		<tr>
-			<td bgcolor="#FFFFFF" align="center"><img src="./images/img research works/quant frame.jpg" width="85%"></td>
+			<td bgcolor="#FFFFFF" align="center"><img src="./images/img research works/quant frame.jpg" width="80%"></td>
 		</tr>
 		<tr height="30">
 			<td bgcolor="#FFFFFF"></td>
@@ -270,37 +270,35 @@
 		  <table>
 		  <tr>	
 			<td bgcolor="#FFFFFF" align="center" width="68%">
-			<img src="./images/img research works/char reg flow.jpg" width="480"></td>
+			<img src="./images/img research works/char reg flow.jpg" width="100%"></td>
 			<td width="2%"></td>
 			<td bgcolor="#FFFFFF" align="center" width="30%">
-			<img src="./images/img research works/structure.jpg" width="160"></td>
+			<img src="./images/img research works/structure.jpg" width="100%"></td>
 		  </tr>
 		  </table>		
 		</td>
 		</tr>
-		<tr height="10">
-			<td bgcolor="#FFFFFF"></td>
-		</tr>
+
 		<tr align="left">
 		<td bgcolor="#FFFFFF" align="center">
 		  <table>
 		  <tr>	
 			<td bgcolor="#FFFFFF" align="center" width="100%">
-			<img src="./images/img research works/similar char set.jpg" width="600"></td>
+			<img src="./images/img research works/similar char set.jpg" width="86%"></td>
 		  </tr>
 		  <tr height="10">
 			<td bgcolor="#FFFFFF"></td>
 		  </tr>
 		  <tr>
 			<td bgcolor="#FFFFFF" align="center" width="100%">
-			<img src="./images/img research works/similar rules reg.jpg" width="530"></td>
+			<img src="./images/img research works/similar rules reg.jpg" width="86%"></td>
 		  </tr>
 		  <tr height="10">
 			<td bgcolor="#FFFFFF"></td>
 		  </tr>
 		  <tr>
 			<td bgcolor="#FFFFFF" align="center" width="100%">
-			<img src="./images/img research works/rules.jpg" width="480"></td>
+			<img src="./images/img research works/rules.jpg" width="76%"></td>
 		  </tr>
 		  <tr height="10">
 			<td bgcolor="#FFFFFF"></td>
